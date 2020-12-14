@@ -1,0 +1,2 @@
+class Maling < ApplicationRecord
+end

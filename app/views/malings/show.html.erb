@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @maling.title %>
+</p>
+
+<p>
+  <strong>Message:</strong>
+  <%= @maling.message %>
+</p>
+
+<%= link_to 'Edit', edit_maling_path(@maling) %> |
+<%= link_to 'Back', malings_path %>
