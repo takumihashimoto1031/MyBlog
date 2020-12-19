@@ -201,6 +201,7 @@ GEM
 PLATFORMS
   ruby
   universal-darwin-20
+  x86_64-darwin-20
 
 DEPENDENCIES
   bootsnap (>= 1.4.4)
@@ -225,4 +226,4 @@ RUBY VERSION
    ruby 2.6.3p62
 
 BUNDLED WITH
-   2.2.0
+   2.2.2
